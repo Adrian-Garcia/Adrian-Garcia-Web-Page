@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Helvetica; 
+	font-size: 18px; 
+	color: black;
+}
+
+h1 {
+	font-family: 'Roboto';
+	color: white;
+	padding-top: 560px;
+	padding-left: 350px;
+	background-image: url(https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/21077250_1488239914557900_8168410184715826386_n.jpg?oh=45a57f3ad380bbe74e55315677968f1a&oe=5AC7EEBD);
+	background-size: cover; 
+	background-attachment: fixed;
+	line-height: 100px;
+	letter-spacing: 5px;
+	min-width: 500px;
+}
+
+p {
+	font-family: Helvetica;
+	min-width: 500px;	
+}
+
+.container {
+	padding-top: 50px;
+	padding-right: 645px;
+ 	padding-left: 350px;
+  	min-width: 500px; 
+  	padding-bottom: 200px;
+}
+
+.nav {
+	padding-left: 350px;
+	height: 72px;
+	line-height: 72px;
+	word-spacing: 20px;
+	color: black;
+	border: 0.5px #D3D3D3 solid;
+	font-size: 15px;
+	min-width: 500px;
+}
+
+footer  {
+	border: 0.5px #D3D3D3 solid;
+	padding-left: 350px;
+	height: 90px;
+	line-height: 90px;
+	color: gray;
+	font-size: 14px;
+}
