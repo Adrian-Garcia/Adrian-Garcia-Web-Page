@@ -1,0 +1,68 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-family: Helvetica;
+	font-size: 18px; 
+	color: black;
+}
+
+h1 {
+	color: white;
+	background-image: url("https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/21077250_1488239914557900_8168410184715826386_n.jpg?oh=45a57f3ad380bbe74e55315677968f1a&oe=5AC7EEBD");
+	background-position: 0px 850px;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 50px;
+	padding-left: 300px;
+	line-height: 120px;
+	letter-spacing: 2px;
+}
+
+.nav {
+	padding-left: 300px;
+	word-spacing: 20px;
+	height: 72px;
+	line-height: 72px;
+	border: 0.5px #D3D3D3 solid;
+	font-size: 16px;
+}
+
+#Paris {
+	padding-top: 90px;
+	padding-left: 695px;
+}
+
+h2 {
+	padding-top: 30px;
+	padding-left: 695px;
+	padding-right: 300px;
+	font-size: 16px;
+	padding-right: 25px;
+}
+
+p {
+	padding-left: 695px;
+	padding-right: 300px;
+	font-size: 16px;
+	line-height: 25px;
+}
+
+ol {
+	padding-left: 695px;
+	padding-right: 300px;
+	font-size: 16px;
+	line-height: 25px;
+}
+
+footer {
+	margin-top: 100px;
+	border: 0.5px #D3D3D3 solid;
+	padding-left: 350px;
+	height: 90px;
+	line-height: 90px;
+	color: gray;
+	font-size: 14px;
+}
